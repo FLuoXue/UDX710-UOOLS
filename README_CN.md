@@ -40,17 +40,21 @@
 
 ## 📸 界面预览
 
-| 系统监控 | 网络管理 | 短信管理 |
+| 系统监控 | 网络管理 | 高级网络 |
 |:---:|:---:|:---:|
-| ![系统监控](docs/screenshot1.png) | ![网络管理](docs/screenshot2.png) | ![短信管理](docs/screenshot3.png) |
+| <img src="docs/screenshot1.png" width="250" /> | <img src="docs/screenshot2.png" width="250" /> | <img src="docs/screenshot3.png" width="250" /> |
 
-| 流量统计 | 充电控制 | 系统更新 |
+| 短信管理 | 流量统计 | 充电控制 |
 |:---:|:---:|:---:|
-| ![流量统计](docs/screenshot4.png) | ![充电控制](docs/screenshot5.png) | ![系统更新](docs/screenshot6.png) |
+| <img src="docs/screenshot5.png" width="250" /> | <img src="docs/screenshot6.png" width="250" /> | <img src="docs/screenshot7.png" width="250" /> |
 
-| AT调试终端 | USB模式 | 系统设置 |
+| 系统更新 | AT调试 | Web终端 |
 |:---:|:---:|:---:|
-| ![AT调试终端](docs/screenshot7.png) | ![USB模式](docs/screenshot8.png) | ![系统设置](docs/screenshot9.png) |
+| <img src="docs/screenshot8.png" width="250" /> | <img src="docs/screenshot9.png" width="250" /> | <img src="docs/screenshot10.png" width="250" /> |
+
+| USB模式 | 系统设置 |
+|:---:|:---:|
+| <img src="docs/screenshot11.png" width="250" /> | <img src="docs/screenshot12.png" width="250" /> |
 
 ## 功能特性
 

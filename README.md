@@ -42,17 +42,21 @@ Lightweight, efficient, and perfect for resource-constrained embedded devices!
 
 ## 📸 Screenshots
 
-| System Monitor | Network Management | SMS Management |
+| System Monitor | Network Management | Advanced Network |
 |:---:|:---:|:---:|
-| ![System Monitor](docs/screenshot1.png) | ![Network Management](docs/screenshot2.png) | ![SMS Management](docs/screenshot3.png) |
+| <img src="docs/screenshot1.png" width="250" /> | <img src="docs/screenshot2.png" width="250" /> | <img src="docs/screenshot3.png" width="250" /> |
 
-| Traffic Statistics | Charge Control | System Update |
+| SMS Management | Traffic Statistics | Charge Control |
 |:---:|:---:|:---:|
-| ![Traffic Statistics](docs/screenshot4.png) | ![Charge Control](docs/screenshot5.png) | ![System Update](docs/screenshot6.png) |
+| <img src="docs/screenshot5.png" width="250" /> | <img src="docs/screenshot6.png" width="250" /> | <img src="docs/screenshot7.png" width="250" /> |
 
-| AT Debug Terminal | USB Mode | System Settings |
+| System Update | AT Debug | Web Terminal |
 |:---:|:---:|:---:|
-| ![AT Debug Terminal](docs/screenshot7.png) | ![USB Mode](docs/screenshot8.png) | ![System Settings](docs/screenshot9.png) |
+| <img src="docs/screenshot8.png" width="250" /> | <img src="docs/screenshot9.png" width="250" /> | <img src="docs/screenshot10.png" width="250" /> |
+
+| USB Mode | System Settings |
+|:---:|:---:|
+| <img src="docs/screenshot11.png" width="250" /> | <img src="docs/screenshot12.png" width="250" /> |
 
 ## Featu
 
