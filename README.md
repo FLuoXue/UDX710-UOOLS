@@ -66,7 +66,9 @@ Lightweight, efficient, and perfect for resource-constrained embedded devices!
 - **LED Control**: Manage device LED indicators
 - **Airplane Mode**: Toggle airplane mode
 - **Power Management**: Battery status, charging control
-- **USB Mode Switch**: Switch between CDC-ECM, CDC-NCM, RNDIS modes (temporary/permanent)
+- **USB Mode Switch**: Switch between CDC-ECM, CDC-NCM, RNDIS USB network modes
+  - Temporary mode: Effective after reboot, reverts on next reboot
+  - Permanent mode: Persists across all reboots
 - **OTA Update**: Over-the-air firmware updates
 - **Factory Reset**: Restore device to default settings
 - **Web Terminal**: Remote shell access

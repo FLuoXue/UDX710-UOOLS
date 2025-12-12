@@ -64,6 +64,9 @@
 - **LED控制**：管理设备LED指示灯
 - **飞行模式**：切换飞行模式
 - **电源管理**：电池状态、充电控制
+- **USB模式切换**：在CDC-ECM、CDC-NCM、RNDIS三种USB网络模式间切换
+  - 临时模式：重启后生效，再次重启恢复默认
+  - 永久模式：永久保存，所有重启后都生效
 - **OTA更新**：空中固件升级
 - **恢复出厂**：恢复设备默认设置
 - **Web终端**：远程Shell访问
@@ -95,6 +98,7 @@
 │       ├── led.c           # LED控制
 │       ├── charge.c        # 电池管理
 │       ├── airplane.c      # 飞行模式
+│       ├── usb_mode.c      # USB模式切换
 │       ├── update.c        # OTA更新
 │       ├── factory_reset.c # 恢复出厂
 │       └── ...
@@ -158,6 +162,7 @@ make
 | `/api/band/current` | GET | 当前频段信息 |
 | `/api/led/status` | GET/POST | LED控制 |
 | `/api/airplane` | GET/POST | 飞行模式 |
+| `/api/usb/mode` | GET/POST | USB模式切换 (CDC-ECM/CDC-NCM/RNDIS) |
 | `/api/update/check` | GET | 检查更新 |
 | `/api/update/install` | POST | 安装更新 |
 | `/api/factory-reset` | POST | 恢复出厂设置 |
